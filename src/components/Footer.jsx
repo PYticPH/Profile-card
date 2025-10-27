@@ -3,7 +3,7 @@
 export default function Footer() {
     return (
         <footer className="footer">
-            <!-- x (twitter) Icon -->
+            {/* X (twitter) Icon */}
             <a href="https://x.com/pyticph">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
                     <path d="M160 96C124.7 96 96 124.7 96 160L96 480C96 515.3 124.7 
@@ -15,7 +15,7 @@ export default function Footer() {
                 </svg>
             </a>
 
-            <!-- Facebook Icon (Not available) --> 
+            {/* Facebook Icon (Not available) */}
             <a href="#">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
                     <path d="M160 96C124.7 96 96 124.7 96 160L96 480C96 515.3 
@@ -28,7 +28,7 @@ export default function Footer() {
                      96z"/>
                 </svg>
             </a>
-            <!-- Instagram Icon (Not available) -->
+            {/* Instagram Icon (Not available) */}
             <a href="#">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
                     <path d="M290.4 275.7C274 286 264.5 304.5 265.5 323.8C266.6 
@@ -76,7 +76,7 @@ export default function Footer() {
                 </svg>
             </a>
 
-            <!-- GitHub Icon -->
+            {/* GitHub Icon */}
             <a href="https://github.com/pyticph">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
                     <path d="M544 160C544 124.7 515.3 96 480 96L160 96C124.7 96 
