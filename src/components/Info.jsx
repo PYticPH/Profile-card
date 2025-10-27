@@ -9,7 +9,7 @@ export default function Info() {
             <h1>PYticPH</h1>
             <h2>Frontend Developer</h2>
             <a href="mailto:pyticph@gmail.com">Email</a>
-            <a href="https://www.linkedin.com/in/pyticph/" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/emmanuel-dada-53a2811ba/" target="_blank" rel="noreferrer">LinkedIn</a>
         </header>
     )
 }
